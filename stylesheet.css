@@ -1,0 +1,21 @@
+* {
+  font-family: Garamond, serif;
+  background-color: #ede9e8;
+  color: #1b1b1b;
+}
+
+a {
+  color: #0069c2;
+}
+
+ul {
+  list-style: none;
+}
+
+.ingredients-list {
+  list-style: square;
+}
+
+.center {
+  text-align: center;
+}
