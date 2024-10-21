@@ -1,6 +1,6 @@
 # Odin Recips
 
-This is a basic recipse website.
+This is a basic recipe website.
 
 ## Stack
 
