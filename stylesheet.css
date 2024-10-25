@@ -1,0 +1,19 @@
+body {
+  font-family: "Arial", "Verdana", sans-serif;
+  color: #444;
+  background-color: #faf5ef;
+}
+
+.title {
+  color: #1d1d1d;
+  background-color: #ffa500;
+}
+
+.heading {
+  color: #202020;
+  background-color: #ffbf00;
+}
+
+.recipe-list {
+  background-color: #fff9e3;
+}
