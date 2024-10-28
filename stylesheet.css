@@ -78,3 +78,7 @@ a {
 .recipe-source {
   text-align: center;
 }
+
+.to-homepage-link {
+  padding: 6px 12px;
+}
