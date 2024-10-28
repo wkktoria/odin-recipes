@@ -16,6 +16,10 @@ body {
   background-color: #faf5ef;
 }
 
+a {
+  color: #ffbf00;
+}
+
 #homepage {
   text-align: center;
 }
